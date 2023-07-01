@@ -1,0 +1,10 @@
+package org.example;
+
+public class Tea {
+
+//    Eager way to creating singleton object
+    private static Tea tea = new Tea();
+    public static Tea getTea(){
+        return tea;
+    }
+}
