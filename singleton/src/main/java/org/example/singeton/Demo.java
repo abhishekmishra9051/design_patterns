@@ -1,4 +1,4 @@
-package org.example;
+package org.example.singeton;
 
 public class Demo
 {
