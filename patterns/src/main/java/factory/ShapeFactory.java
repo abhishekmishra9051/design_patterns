@@ -1,4 +1,4 @@
-package org.example.factory;
+package factory;
 
 public class ShapeFactory {
     public static Shape createShape(String str){

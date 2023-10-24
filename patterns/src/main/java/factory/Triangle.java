@@ -1,4 +1,4 @@
-package org.example.factory;
+package factory;
 
 public class Triangle implements Shape {
     @Override
